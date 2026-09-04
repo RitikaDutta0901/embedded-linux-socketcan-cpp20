@@ -1,0 +1,15 @@
+# CMake build output
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CMakeUserPresets.json
+
+# Compiled artifacts
+*.o
+*.a
+*.so
+
+# Test output
+Testing/
